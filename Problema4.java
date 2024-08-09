@@ -12,6 +12,7 @@ public class Problema4{
 		//Variable de la libreria Scanner
 		Scanner scan = new Scanner(System.in);
 		
+		System.out.println("Este es un mensaje nuevo");
 		//Pedimos el ingreso de valor de litros
 		System.out.println("Ingrese el valor de litros:");
 		Double litros = scan.nextDouble();
